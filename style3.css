@@ -1,0 +1,51 @@
+ body{
+        background-color:darkkhaki;
+        max-width: 100%;
+    }
+    h1{
+        color:maroon;
+        background-color:darkorange;
+        text-shadow:2px 2px 4px goldenrod;
+        text-align:center;
+        border:5px darkmagenta solid;
+        border-radius:5px;
+        padding:20px;
+        margin:30px;
+    }
+    form{
+
+        background-color:tomato;
+        border:5px purple solid;
+        text-align: center;
+        padding:30px;
+        margin:30px;
+
+    }
+    label{
+        color:maroon;
+        font-size:25px;
+
+
+
+    }
+    input{
+        color:purple;
+
+        padding:4px 4px 4px 4px;
+
+
+       
+    }
+    textarea{
+        border-radius:5px;
+        padding-left: 10px;
+        margin-left: 16px;
+
+
+    }
+    button{
+        font-family:"Lucida Calligraphy";
+        border-radius:5px;
+        font-size:30px;
+        text-shadow:2px 2px 4px red;
+    }

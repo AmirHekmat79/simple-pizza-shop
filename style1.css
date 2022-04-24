@@ -1,0 +1,92 @@
+body{
+        color:darkred;
+        background-color:coral;
+       
+    }
+
+
+    #title1{
+        color:crimson;
+        font-family:"GulimChe";
+        border:2px double red;
+        box-shadow:2px 2px 2px 2px darkred;
+        margin-bottom: 3px;
+    }
+    figcaption{
+        color:red;
+        text-shadow:2px 2px 4px crimson;
+        font-family:"Baskerville Old Face";
+        font-size:30px;
+
+    }
+
+    img{
+        border-radius:5px;
+        border: firebrick solid;
+        width:600px;
+        height:350px;
+        max-width:100%;
+        max-height:100%;
+
+
+    }
+    #A1{
+        text-decoration:none;
+        text-shadow:2px 2px 4px tomato;
+        font-size:26px;
+        font-family:"cursive";
+        color:darkred;
+
+    }
+
+    #A1:hover{
+
+        box-shadow: 2px 2px 2px 2px darkred;
+    }
+
+
+
+.container{
+    height:90px;
+    width:1480px;
+    max-width:100%;
+    background-color:maroon;
+    border:4px groove darkred;
+    box-shadow: 3px 3px 3px 3px firebrick;
+    padding-top:20px;
+    padding-bottom:38px;
+    display:flex;
+    flex-direction:column;
+    justify-content:space-around;
+
+
+
+}
+
+.contact{
+
+    margin-top:10px;
+
+
+}
+
+.home{
+    margin-bottom: 6px;
+    margin-top:2px;
+}
+
+
+.container>div a{
+
+    text-decoration:none;
+    color:white;
+    font-size:35px;
+    border:2px solid orangered;
+    padding:4px 5px 2px 5px;
+
+    box-shadow: 3px 3px 3px 3px tomato;
+
+
+
+}
+

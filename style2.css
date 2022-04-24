@@ -1,0 +1,97 @@
+ body{
+
+        background-color: orange;
+
+    }
+    #pp{
+        color:darkred;
+        font-family:"Lucida Calligraphy";
+        text-shadow:2px 2px 4px firebrick;
+    }
+    #image1{
+        width:250px;
+        height:250px;
+
+
+
+
+       
+
+    }
+
+    .container{
+
+        height: 800px;
+        border:2px solid darkred;
+        border-radius:2px;
+        display:grid;
+        grid-template-columns: repeat(auto-fit,minmax(300px,1fr));
+        overflow: auto;
+        background-color:tomato;
+    }
+
+
+    .container img{
+        width:250px;
+        height:250px;
+
+
+    }
+
+
+
+
+
+    figcaption{
+        font-family:"fantasy";
+    }
+    #pizza1{
+        text-decoration:none;
+        font-family:"Segoe Print";
+        font-size:21px;
+       
+
+    }
+    #pizza2{
+        text-decoration:none;
+        font-family:"Segoe Print";
+        font-size:21px;
+
+    }
+    #pizza3{
+        text-decoration:none;
+        font-family:"Segoe Print";
+        font-size:21px;
+
+
+    }
+
+    #pizza4{
+        text-decoration:none;
+        font-family:"Segoe Print";
+        font-size:21px;
+
+
+    }
+    #pizza5{
+        text-decoration:none;
+        font-family:"Segoe Print";
+        font-size:21px;
+
+
+    }
+
+    #pizza6{
+        text-decoration:none;
+        font-family:"Segoe Print";
+        font-size:21px;
+
+
+
+    }
+    #special{
+
+        border-radius:50%;
+    }
+
+

@@ -1,0 +1,41 @@
+
+body{
+
+    color: yellow;
+    background-color: indianred;
+
+}
+
+.heading{
+
+    border:5px dotted tomato;
+    font-family:"Imprint MT Shadow";
+    text-align: center;
+    background-color: yellowgreen;
+
+}
+
+table{
+
+    width:1500px;
+    height:600px;
+    border-collapse: collapse;
+    max-width: 100%;
+}
+
+tr,th,td{
+
+    border:4px double darkred;
+    box-shadow:3px 3px 3px 3px darkred;
+    padding:20px 20px 20px 20px;
+    text-align: center;
+    text-transform: capitalize;
+    font-weight: bold;
+    font-size: 50px;
+    font-family:"Imprint MT Shadow";
+    color:orangered;
+    background-color: yellow;
+
+}
+
+
